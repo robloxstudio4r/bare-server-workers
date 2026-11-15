@@ -1,4 +1,3 @@
 name = "bare-server-workers"
 main = "dist/sw.js"
 compatibility_date = "2023-12-01"
-format = "service-worker"
